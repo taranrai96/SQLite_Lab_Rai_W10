@@ -1,3 +1,13 @@
+<!--
+  ~ Created by Taran Rai on 28/10/17 1:56 PM
+  ~ Copyright (c) 2017. All rights reserved
+  ~
+  ~ Last modified 28/10/17 1:45 PM
+  -->
+
 <resources>
     <string name="app_name">SQLite_Lab_Rai</string>
+    <string name="event_master_title1">Name</string>
+    <string name="event_master_title2">Date</string>
+    <string name="event_master_title3">Time</string>
 </resources>

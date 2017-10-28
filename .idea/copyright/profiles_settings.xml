@@ -1,3 +1,7 @@
 <component name="CopyrightManager">
-  <settings default="Rai Kwon" />
+  <settings default="Personal Rai">
+    <module2copyright>
+      <element module="All" copyright="Personal Rai" />
+    </module2copyright>
+  </settings>
 </component>
